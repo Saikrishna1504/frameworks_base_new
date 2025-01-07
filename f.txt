@@ -1,0 +1,21 @@
+# Changes to be committed:                                                                                      │···························································································
+#       modified:   Android.bp                                                                                  │···························································································
+#       modified:   core/java/android/hardware/face/FaceSensorConfigurations.java                               │···························································································
+#       modified:   core/java/android/hardware/fingerprint/FingerprintSensorConfigurations.java                 │···························································································
+#       deleted:    packages/SystemUI/res/drawable-nodpi/udfps_icon_pressed.png                                 │···························································································
+#       modified:   packages/SystemUI/res/layout/udfps_touch_overlay.xml                                        │···························································································
+#       modified:   packages/SystemUI/res/values/voltage_config.xml                                             │···························································································
+#       modified:   packages/SystemUI/src/com/android/systemui/biometrics/UdfpsController.java                  │···························································································
+#       modified:   packages/SystemUI/src/com/android/systemui/biometrics/UdfpsControllerOverlay.kt             │···························································································
+#       modified:   packages/SystemUI/src/com/android/systemui/biometrics/ui/view/UdfpsTouchOverlay.kt          │···························································································
+#       modified:   services/core/java/com/android/server/biometrics/AuthService.java                           │···························································································
+#       modified:   services/core/java/com/android/server/biometrics/biometrics.aconfig                         │···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/face/FaceService.java              │···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/face/aidl/BiometricTestSessionImpl>│···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/face/aidl/FaceProvider.java        │···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/face/aidl/Sensor.java              │···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/fingerprint/FingerprintService.java│···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/fingerprint/aidl/BiometricTestSess>│···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/fingerprint/aidl/FingerprintProvid>│···························································································
+#       modified:   services/core/java/com/android/server/biometrics/sensors/fingerprint/aidl/Sensor.java       │···························································································
+#                                                                                                              
